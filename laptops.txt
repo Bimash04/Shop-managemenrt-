@@ -1,0 +1,5 @@
+Razer Blade, Razer, 2000, 12
+XPS, Dell, 1976, 13
+Alienware, Alienware, 1978, 24
+Swift, Acer, 900, 2
+Macbook, Apple, 3500, 7
